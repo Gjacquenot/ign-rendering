@@ -1,1 +1,1 @@
-add_subdirectory(ignition/rendering)
+add_subdirectory(gz/rendering)
